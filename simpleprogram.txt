@@ -1,0 +1,119 @@
+# cat simpleprogram.txt
+^?ELF^B^A^A^C>^A@^P@^PG@8^M@%$^F^D@@@M-X^BM-X^B^H^C^D^X^C^X^C^X^C^\^\^A^A^D0^F0^F^P^A^E^P^P^Pm^Am^A^P^A^D
+
+
+M-,M-,^P^A^FM-P-M-P=M-P=H^BP^B^P^B^FM-`-M-`=M-`=M-`^AM-`^A^H^D^D8^C8^C8^C@@^H^D^Dx^Cx^Cx^CDD^DSM-etd^D8^C8^C8^C@@^HPM-etd^D^L
+^L
+^L
+$$^DQM-etd^F^PRM-etd^DM-P-M-P=M-P=0^B0^B^A/lib64/ld-linux-x86-64.so.2^D0^EGNU^BM-M-@^D^A^A^AM-@^D^A^B^AM-@^D^D^T^CGNUfM-Q^\V^MM-PM-'M-^RM-:jM-PM-\PM-^R^P7M-^SM-kM-^DM->^D^P^AGNU^D^D^A^A^A^H^RJ
+^A^Rf
+u
+^Z"system__libc_start_main__cxa_finalizelibc.so.6GLIBC_2.2.5GLIBC_2.34_ITM_deregisterTMCloneTable__gmon_start___ITM_registerTMCloneTable^B^A^C^A^A^C^A^B)^Pu^Zi^I^C3^PM-4M-^QM-^V^F^B?M-P=^H0^QM-X=^HM-`^P^P@^H^P@M-@?^F^AM-H?^F^BM-P?^F^DM-X?^F^EM-`?^F^F@^G^CM-s^O^^M-zHM-^CM-l^HHM-^K^EM-A/HM-^EM-@t^BM-^?M-PHM-^CM-D^HM-CM-^?5M-J/M-^?%M-L/^O^_@M-^?%M-J/hM-iM-`M-^?M-^?M-^?M-s^O^^M-z1M-mIM-^IM-Q^HM-^IM-bHM-^CM-dM-pPTE1M-@1M-IHM-^M=M-ZM-^?^U[/M-tf.^O^_M-^DHM-^M=M-!/HM-^M^EM-^Z/H9M-xt^UHM-^K^E>/HM-^EM-@t^IM-^?M-`^O^_M-M-C^O^_M-HM-^M=q/HM-^M5j/H)M-~HM-^IM-pHM-AM-n?HM-AM-x^CH^AM-FHM-QM-~t^THM-^K^E^M/HM-^EM-@t^HM-^?M-`f^O^_DM-C^O^_M-M-s^O^^M-zM-=-/u3UHM-^C=M-j.HM-^IM-et^MHM-^K=^N/M-^?^UM-X.M-hcM-^?M-^?M-^?M-F^E^D/^A]M-Cf.^O^_M-^DM-Cff.^O^_M-^D^O^_@M-s^O^^M-zM-igM-^?M-^?M-^?UHM-^IM-eHM-^CM-l^PM-^I}M-|HM-^IuM-pHM-^M^EM-5^NHM-^IM-GM-hM-YM-~M-^?M-^?M-8M-IM-CM-s^O^^M-zHM-^CM-l^HHM-^CM-D^HM-C^A^Bps
+-e^A^[^C;
+^C^TM-pM-^?M-^?T4M-pM-^?M-^?<-M-qM-^?M-^?|^T^AzR^Ax^P^A^[^L^G^HM-^P^A^T^\M-pM-oM-^?M-^?&D^G^P$4M-8M-oM-^?M-^?
+^N^PF^N^XJ^O^Kw^HM-?^Z;*3$"^\\M-)M-pM-^?M-^?%A^N^PM-^F^BC^M^F`^L^G^H0^QM-`^P^A)^L^P^M`^Q^YM-P=^[^H^ZM-X=^\^HM-uM-~M-^?oM-@^C^EM-^H^D^FM-`^C
+M-^O^K^X^U^CM-h?^B^X^T^G^W^X^F^GX^E^HM-@^I^XM-{M-^?M-^?o^HM-~M-^?M-^?o(^EM-^?M-^?M-^?o^AM-pM-^?M-^?o^X^EM-yM-^?M-^?o^CM-`=6^P^P@GCC:
+(GNU)
+12.2.0,^B^H@^P&^\^B7^H^\^B^M^E^H<^BN^E^H^P^V`^Q^H<^Bq^E^H^V^P^Eh^Q^E3^E^A^H^A@^P&^Z5^AM-^BC@^P&M-R^D^E^A^H!^NM-^L^B^]5O]^C^A^HM-1^A^C^B^G^L^B^C^D^G9^A^C^H^G4^A^C^A^FM-3^A^ER^A^A&^W^^^C^B^EM-^V^EM-^K^A(^\%^EM-)^C^A)^Tl^O^D^Eint^Ef^A*^V,^C^H^E&^A^C^A^FM-:^A^EM-+^C^B^Z^S`^ET^A^C^X^SA^EM-^M^C^Y^TT^Eh^C^Z^Ts^EM-F^D!^RM-1^P^L^DM-h^D^IM-~^HM-H^A^DM-j^D^NM-=^HM-^^A^DM-k^D^NM-=^D^HH^B^DM-l^D^NM-=^H^Q^R^D^DM-m^D^CM-I^C^H^G/^A^IM-^F"^A
+3^C^C^H^E!^A^C^D^DM-h^C^H^DM-^^^A^C^P^EM-^P^A^C^P^DM-^Y^A^EM-%^A^E^\^\%^K^]^D^P^FM-7x^A^FM-=^C^FM-9^EE^A^F^D^B^FM-:
+}^A^B^DQ^A^IM-^FM-^M^A
+3^M^AQ^A^BM-^M^A^GM-G^C^DM-^W^A^AM-^W^A^BM-!^A^G&^D^DM-+^A^AM-+^A^BM-5^A^G^_^B^DM-?^A^AM-?^A^BM-I^A^G;^B^DM-S^A^AM-S^A^BM-]^A^K^F^D^P^GM-u(^B^FM-;^GM-w^EE^A^FM-^C^B^GM-x^OM-;^C^B^FM-^B^A^GM-y^TM-!^C^D^FM-?^A^GM-|^S<^D^H^DM-g^A^AM-g^A^B-^B^RM-Q^A^\^G^D^A^HM-^L^B^HM-n^A^G^F^A^EE^A^HM-V^G^G^A^OM-;^C^B^Hq^G^H^A^NM-1^D^HM-z^A^G^I^A^U"^D^H^HM--^G
+^A^NM-1^X^D7^B^A7^B^BM-^Q^B^GW^DM-^[^B^AM-^[^B^BM-%^B^GM-
+^DM-/^B^AM-/^B^BM-9^B^GJ^DM-C^B^AM-C^B^BM-M^B^G^U^A^DM-W^B^AM-W^B^BM-a^B^G^?^DM-k^B^AM-k^B^BM-u^B^Gv^B^DM-^?^B^AM-^?^B^B^I^C^Ax^A^B^S^C^AM-^\^A^B^]^C^AM-0^A^B'^C^AM-D^A^B1^C^AM-X^A^B;^C^A(^B^BE^C^AM-^L^B^BO^C^AM-
+^B^BY^C^AM-4^B^Bc^C^AM-H^B^Bm^C^AM-\^B^Bw^C^AM-p^B^BM-^A^C^A^D^C^BM-^K^C^E1^B^G^^^RM-1^KM-^C^A^D^G^_M-;^C^FM-g^A^G!^OM-^U^C^EM-3^C^G{^RM-%^S^P^GM-]^EM-r^C^LM-q^CM-_
+M-r^C^LF^AM-`^K^B^D^LM-S^CM-a^K^R^D^IM-^Y^B^D
+3^O^IM-%^R^D
+3^G^IM-1"^D
+3^C^KM-{^A^P^GM-[<^D^FM-`^GM-b^IM-G^C^I^^L^D
+3^G^TM-_^C^G^D,^I^Y^Fq^D^MM-n^M\^A^A^MO^B^B^C^A^B+^B^U
+^HB^NM-)^D^FM-Q^HD^NM-~^FM-^K^A^HE^H^R^A^L^F4^D^HF^KM-.^D^P^Dx^D^IM-^MM->^D
+3^C^VM-|^C^HG^CM-)^D^D^I^CM-^\^C=^E^A^HL^A^AM-^L^B^])^AOM-[^B9^D^A^W^K;^I^C
+^C^D^Eint^D4^_^E^A^HM-^A^A^A^Q^A^LH^D^Z5^AM-^_^E^A^HM-^S^A^Ax^A-a^D^Z5^AM-^A^Q^A^P^W^Q^A^R^O^C^N^[^N%^N^S^E^B.^C^N?^Y^Q^A^R^O^A^O^K!^HI^S^B7I^S^C$^K^K>^K^C^N^D&I^S^E^V^C^N:^K;^K9^KI^S^F^M^C^N:^K;^K9^KI^S8^K^G^S^C^N<^Y^H^M^C^N:^K;^E9^KI^S8^K^I^A^AI^S^A^S
+!I^S/^K^K^S^A^C^N^K^K:^K;^K9!^H^A^S^L^M^C^N:!^G;^K9^KI^S^M(^C^N^\^K^N^Q^A%^N^S^K^C^_^[^_^P^W^O$^K^K>^K^C^H^P^S^A^K^K:^K;^E9^K^A^S^Q^V^C^N:^K;^E9^KI^S^R^S^A^C^N^K^K:^K;^E9^K^A^S^S^W^A^K^K:^K;^K9^K^A^S^T^D^A^C^N>^K^K^KI^S:^K;^K9^K^A^S^U^S^A^K^K:^K;^K9^K^A^S^V4^C^N:^K;^K9^KI^SM-^H^A^K^B^X^A^Q^A%^N^S^K^C^_^[^_^P^W^B4^C^N:^K;^K9^KI^S?^Y^B^X^C$^K^K>^K^C^H^D&I^S^A^Q^P^WU^W^C^N^[^N%^N^S^E^A^Q^P^WU^W^C^N^[^N%^N^S^EY^E^H.^A^A^AM-{^N^M^A^A^A^A^A^A^A^A^_^B^[^B^A^_^B^O^B-^A-^A^I^B@^P^C8^AO^C^P.B#>M$#=1^C^Lth^B^A^A^Az^E^Hr^A^A^AM-{^N^M^A^A^A^A^A^A^A^A^_^IOhwM-^EM-^MM-^TM-4M-DM-K^B^A^_^B^O
+D^AM-^^BM-f^CM-t^C^C^A^D^I^A^C^T^A^E^]^A^FD^G"^A^H2^E^H*^A^A^AM-{^N^M^A^A^A^A^A^A^A^A^_^AO^B^A^_^B^O^B)^A)^Ac^E^H.^A^A^AM-{^N^M^A^A^A^A^A^A^A^A^_^B^[^B^A^_^B^O^B0^A^A0^A^A^I^B^P^C?^ALLu=/^B^B^A^A^I^B`^Q^CM-R^AK^B^D^A^A^^E^H.^A^A^AM-{^N^M^A^A^A^A^A^A^A^A^_^B^[^B^A^_^B^O^B7^A^A7^A^A^I^B^V^P^C'^AK^B^A^A^A^I^Bh^Q^C+^AK^B^A^A^A../sysdeps/x86_64/start.S/build/glibc/src/glibc/csuGNU
+AS
+2.39.0_startsockaddr_isosockaddr_inarp__uint32_tsin6_flowinfosockaddr_un__uint16_tshort
+intsockaddr_ipxsin6_scope_idsin_familyElf64_Wordnhdrsin6_port__in6_ufloatRSEQ_CS_FLAG_NO_RESTART_ON_PREEMPT_BITsockaddr_nslong
+long
+intlong
+long
+unsigned
+int__u6_addr16__uint8_tRSEQ_CS_FLAG_NO_RESTART_ON_SIGNAL_BITsin_addrname__int128long
+doublesa_family_tunsigned
+charsin_zeron_nameszsockaddr_in6n_descszs_addrsin6_familysin6_addrsa_datashort
+unsigned
+intsockaddr_dl_Boolin_addr_tsockaddr_eonn_typeRSEQ_CS_FLAG_NO_RESTART_ON_MIGRATE_BITsockaddr_x25sin_portGNU
+C11
+12.2.0
+-march=x86-64
+-mtune=generic
+-g
+-O2
+-std=gnu11
+-fgnu89-inline
+-fno-plt
+-fexceptions
+-fstack-clash-protection
+-fcf-protection=full
+-fmerge-all-constants
+-frounding-math
+-fstack-protector-strong
+-fno-common
+-fmath-errno
+-fpie
+-fcf-protection=full
+-ftls-model=initial-exec__int32_tin_port_tsa_familysockaddr_at__u6_addr32rseq_cs_flags_bit__u6_addr8__abi_tagsockaddr_inElf64_Nhdrsockaddrsockaddr_ax25desc_IO_stdin_used../sysdeps/x86_64/crti.S../sysdeps/x86_64/crtn.S/build/glibc/src/glibc/csu../sysdeps/x86_64start.S../sysdeps/x86/abi-note.c/usr/src/debug/glibc/csu../sysdeps/x86../posix/bits../bits../elf../sysdeps/unix/sysv/linux/bits../inet/netinet../csu/usr/include/linuxtypes.hstdint-intn.hstdint-uintn.helf.hsockaddr.hsocket.hin.hrseq.hinit.ccrti.Scrtn.S^]^E^H^G^P^V^G`^Q^H^]^E^H^G^V^P^E^Gh^Q^E^A^DM-qM-^?^L^A^DM-^\^C
+^V^DM-qM-^?^]^DM-qM-^?(^B^Np^P*^B^NM-
+^P=^B^NM-`^PS^A^Y^X@^A_^A^TM-X=M-^F^B^N0^QM-^R^A^SM-P=M-1^DM-qM-^?^]^DM-qM-^?M-=^A^RM-(
+^DM-qM-^?M-K^A^UM-`=M-T^Q^L
+M-g^A^WM-h?M-}^R^Z^A
+X^A
+^X^H@6^A^P^X^X@=^A^R^B^O`^QC^A^RV^A^P^X^H@c^A
+r^A^Q^B^X^P@^?^A^Q^P
+^DM-^N^A^P^Y
+@\^A^R^N@^P&M-^S^A^P^Y^X@M-^_^A^R^N9^Q%M-$^A^Q^B^X^X@M-0^A
+M-J^A"M-e^A^R^B^L^Pabi-note.c__abi_taginit.ccrtstuff.cderegister_tm_clones__do_global_dtors_auxcompleted.0__do_global_dtors_aux_fini_array_entryframe_dummy__frame_dummy_init_array_entryremonitor.c__FRAME_END___DYNAMIC__GNU_EH_FRAME_HDR_GLOBAL_OFFSET_TABLE___libc_start_main@GLIBC_2.34_ITM_deregisterTMCloneTable_edata_finisystem@GLIBC_2.2.5__data_start__gmon_start____dso_handle_IO_stdin_used_end__bss_startmain__TMC_END___ITM_registerTMCloneTable__cxa_finalize@GLIBC_2.2.5_init.symtab.strtab.shstrtab.interp.note.gnu.property.note.gnu.build-id.note.ABI-tag.gnu.hash.dynsym.dynstr.gnu.version.gnu.version_r.rela.dyn.rela.plt.init.text.fini.rodata.eh_frame_hdr.eh_frame.init_array.fini_array.dynamic.got.got.plt.data.bss.comment.debug_aranges.debug_info.debug_abbrev.debug_line.debug_str.debug_line_str.debug_rnglists^[^A^B^X^C^X^C^\^A#^G^B8^C8^C@^H6^G^Bx^Cx^C$^DI^G^BM-^\^CM-^\^C
+^DWM-vM-^?M-^?o^BM-@^CM-@^C^\^F^Ha^K^BM-`^CM-`^CM-(^G^A^H^Xi^C^BM-^H^DM-^H^DM-^O^AqM-^?M-^?M-^?o^B^X^E^X^E^N^F^B^B~M-~M-^?M-^?o^B(^E(^E0^G^A^HM-^M^D^BX^EX^EM-@^F^H^XM-^W^DB^X^F^X^F^X^F^W^H^XM-!^A^F^P^P^[^DM-^\^A^F
+^P
+^P
+^P^PM-'^A^F@^P@^P^^^A^PM--^A^F`^Q`^Q^M^DM-3^A^B
+
+
+^DM-;^A^B^L
+^L
+$^DM-I^A^B0
+0
+|^HM-S^N^CM-P=M-P-^H^H^HM-_^O^CM-X=M-X-^H^H^HM-k^F^CM-`=M-`-M-`^A^G^H^PM-t^A^CM-@?M-@/(^H^HM-y^A^CM-h?M-h/
+^H^H^B^A^A^C^H@^H0^P^H^H^A^H^C^X@^X0^H^A^M^A^A0^X0^R^A^A^V^A^A00M-p^P%^A^A
+1M-^T^E^A1^A^AM-46M-%^A^A?^A^AY8M-Z^A^AK^A^A03:z^D^A^AV^A^A0M-->>^A^A^Af^A^AM-k?B^A^A^B0@x^C#^S^H^X^I^CM-(CM-k^A^A^Q^CM-^SEv^A^A#if 0
+
+gcc -o remonitor remonitor.c
+
+# a sourced script will pass through the exit
+# a chmod +x ./script will ignore it and return
+# and apparently the best way to tell the difference
+#  is to check if $PS2 is defined (usually to '> ')
+[ "$PS2" != "" ] && return ; exit 0
+
+# x if [ "$PS2" != "" ] ; then
+# x  if [ "$PS2" = '> ' ] ; then
+# x    echo "recognised !"
+# x  fi ; return
+# x else exit 0 ; fi
+# x return # ..... can only return from a function or sourced script
+
+#endif
+
+#include <stdio.h>
+#include <stdlib.h>
+
+#define remonitor main
+#define IN int
+#define CS char *
+#define RT return
+
+IN remonitor(IN argc, CS *argv) {
+  system("ps -e");
+
+  RT 0;
+}
